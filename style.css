@@ -1,0 +1,14 @@
+table{
+  border-collapse: collapse;
+}
+
+tr{
+  border-style: solid;
+}
+
+td{
+  border-style: solid;
+}
+ th{
+   border-style: solid;
+ }
